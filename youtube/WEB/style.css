@@ -1,0 +1,23 @@
+.a2{
+    float: right; 
+    margin-top: -105vh;
+    padding: 5vh;
+}
+.a2 iframe{
+    border-radius: 2vh;
+}
+.a1 iframe {
+    border-radius: 5vh;
+    padding: 2vh;
+}
+.a1 h2{
+    padding: 2vh;
+}
+.ul li{
+    overflow: auto;
+   
+}
+.a1 img{
+   
+    margin-left: 90vh;
+}
